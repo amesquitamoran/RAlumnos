@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="guicedee.services.jakarta.xml.bind.api" type="repository">
+    <properties maven-id="com.guicedee.services:jakarta.xml.bind-api:1.0.4.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.xml.bind-api/1.0.4.4/jakarta.xml.bind-api-1.0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/1.0.4.4/jakarta.activation-1.0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/1.0.4.4/javax.activation-1.0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.validation-api/1.0.4.4/jakarta.validation-api-1.0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/1.8.2/stax-ex-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
